@@ -37,13 +37,13 @@
 ### 代码类
 
 - 霜泽图书馆（主馆）：378525932
-- 霜泽图书馆（雪煤馆）：1026294736
+- 霜泽图书馆（通知）：1026294736
 
 ### 汉化类
 
 - 霜泽图书馆（汉化组）：996535362
 
-> 霜泽图书馆汉化组同时承担钢铁雄心4WIKI页面、钢铁雄心4大型MOD元首之国、钢铁雄心4为国而战MOD的汉化项目，欢迎各位对汉化翻译感兴趣的同志们到来！
+> 霜泽图书馆汉化组同时承担钢铁雄心4WIKI页面、钢铁雄心4大型MOD元首之国、钢铁雄心4为国而战MOD、红魔乡：绯红之梦的汉化项目，欢迎各位对汉化翻译感兴趣的同志们到来！
 
 - 元首之国玩家院(汉化组直辖群聊)：1025656289
 
@@ -53,6 +53,10 @@
 ### 美工类
 
 - 霜泽图书馆（美工馆）：976242794
+
+> 2025年5月1日，秋起美术馆发布，系由钢铁雄心IV中文社区美工开发人员开发的钢铁雄心IV美术教程合集，欢迎订阅
+
+- 秋起美术馆Steam链接：https://steamcommunity.com/sharedfiles/filedetails/?id=3473772709
 
 ### 反馈区
 
@@ -91,7 +95,8 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 |[烈焰升腾：潜龙腾渊](https://steamcommunity.com/sharedfiles/filedetails/?id=3352637469)(TFR:LRD)制作组|[烈焰升腾：红龙世纪](https://steamcommunity.com/sharedfiles/filedetails/?id=3387695900)(TFR:ARD)制作组|烈焰升腾：红色黎明制作组|
 |[烈焰升腾：最美好的中国](https://steamcommunity.com/sharedfiles/filedetails/?id=3412237232)模组|[德国国策扩展：黄粱一梦](https://steamcommunity.com/sharedfiles/filedetails/?id=3308201627)模组|新秩序：离乡甚远(TNO:SFFH)制作组|
 |冷战：热斗(CW:HS)制作组|[日月不落](https://steamcommunity.com/sharedfiles/filedetails/?id=2917842100)模组|[英式和平：自由或死亡](https://steamcommunity.com/sharedfiles/filedetails/?id=3071559334)(PB:LOM)制作组|
-|东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|P社系列游戏资源互助站|
+|东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|[P社系列游戏资源互助站](https://share.paragames233.com)|
+|[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|悲惨世界(LM)制作组|
 
 ### 鸣谢
 
@@ -158,6 +163,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - Lilith Nightstar - 变量使用教程 (基础)
 - Twisunshine Intelligent(FIL组) - 提供教程
 - Saltfish - P语言：兼容性导论/P语言：从入门到弃坑 2025.1.12version
+- CzXieDdan - 编写代码工具
 
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 
