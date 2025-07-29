@@ -164,6 +164,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - Twisunshine Intelligent(FIL组) - 提供教程
 - Saltfish - P语言：兼容性导论/P语言：从入门到弃坑 2025.1.12version
 - CzXieDdan - 编写代码工具
+- Stakataka_3030 - HOI4.Focus.Editor.v1.0.3
 
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 
