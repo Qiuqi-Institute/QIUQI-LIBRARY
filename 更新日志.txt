@@ -219,3 +219,7 @@
 
 25.7.29 - 秋起图书馆
 1.在【代码工具】中，更新由Stakataka_3030编写的【HOI4.Focus.Editor.v1.0.3】
+
+25.8.1 - 秋起图书馆
+1.在【代码工具】中，更新由Stakataka_3030编写的【HOI4 文本格式化编辑器】
+2.在【代码工具】中，更新【HOI4 Province Editor】git网址

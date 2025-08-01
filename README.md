@@ -96,7 +96,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 |[烈焰升腾：最美好的中国](https://steamcommunity.com/sharedfiles/filedetails/?id=3412237232)模组|[德国国策扩展：黄粱一梦](https://steamcommunity.com/sharedfiles/filedetails/?id=3308201627)模组|新秩序：离乡甚远(TNO:SFFH)制作组|
 |冷战：热斗(CW:HS)制作组|[日月不落](https://steamcommunity.com/sharedfiles/filedetails/?id=2917842100)模组|[英式和平：自由或死亡](https://steamcommunity.com/sharedfiles/filedetails/?id=3071559334)(PB:LOM)制作组|
 |东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|[P社系列游戏资源互助站](https://share.paragames233.com)|
-|[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|悲惨世界(LM)制作组|
+|[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|悲惨世界(LM)制作组|[烈焰升腾：东风烈](https://steamcommunity.com/sharedfiles/filedetails/?id=3449442976)(TFR:VOV)制作组|
 
 ### 鸣谢
 
