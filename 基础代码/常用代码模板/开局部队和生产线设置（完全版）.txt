@@ -8,7 +8,7 @@
 #不需要写文件后缀，写文件的名字就可以了（可以加""）
 set_oob = xxx 
 obb = xxx
-#上面两个好像都是陆军的
+#上面两个都是陆军的
 set_naval_oob = xxx #海军
 set_air_oob = xxx #空军
 
@@ -24,7 +24,7 @@ division_template = { #设置陆军师编制
     regiments = { #陆军师战斗营编制
         战斗营 = { x = 0 y = 0 }
         战斗营 = { x = 0 y = 1 }
-        # x表示横轴，y表示数轴，x=0表示第一列，y=0表示第一行，x=1表示第二列，y=1表示第二行，以此类推
+        # x表示横轴，y表示竖轴，x=0表示第一行，y=0表示第一列，x=1表示第二行，y=1表示第二列，以此类推
         # 编制规则同原版一样，如果是基于原版的模组一定要按照原版陆军师编制的规则编，不然会出现错误的编制
         # 战斗营列表见底部
     }
@@ -32,10 +32,10 @@ division_template = { #设置陆军师编制
         支援连 = { x = 0 y = 0 }
         #支援连列表见底部
     }
-    priority = 0 #优先度，数字越大越排的越上面
+    priority = 0 #是供应接收优先级。选项为 0 表示“储备”，1 表示默认，2 表示“精英”。如果未设置，则默认为 1。
     #以下代码选择性使用
     division_cap = 12 #可以使用此编制训练陆军师的最大数量。模板必须被锁定。如果未设置，则默认为无上限。
-    force_allow_recruiting = yes/no #将允许训练被锁定的陆军师编制。对未锁定的编制没有影响。如果未设置，则默认为否。
+    force_allow_recruiting = yes/no #将 允许训练 被锁定的陆军师编制。对未锁定的编制没有影响。如果未设置，则默认为否。
     is_locked = yes/no #是否被锁定
     division_names_group = USA_INF_01 #设置用于师的名称组，
     # 在 /Hearts of Iron IV/common/units/names_divisions/*.txt 文件中定义。
@@ -128,8 +128,8 @@ instant_effect = {
             version_name = "name" #如果生产的是有单独设计的船或者飞机，则需要写你的设计的名字
 	    }
 	    requested_factories = 1 #设置用于生产该装备的工厂
-	    progress = 0.19 #生产或者改造船的时候的进度
 	    efficiency = 100 #该生产线的效率（100是最高）
+	    progress = 0.19 #生产或者改造船的时候的进度
         industrial_manufacturer = mio:xxx #生产商设置
     }
     #示例（中共生产火炮）
@@ -151,13 +151,21 @@ infantry = 步兵
 cavalry = 骑兵
 camelry = 骆驼骑兵
 motorized = 摩托化步兵
+bicycle_battalion = 自行车营
+mountaineers = 山地步兵
+mechanized = 机械化步兵
+marine = 海军陆战队
+marine_commando = 海军突击队
+fake_intel_unit = 疑兵营
+penal_battalion = 惩戒营
+irregular_infantry = 非正规步兵
+militia = 民兵
+paratrooper = 空降伞兵
 light_armor = 轻坦
 medium_armor = 中坦
 heavy_armor = 重坦
 super_heavy_armor = 超重型坦克
 modern_armor = 现坦
-marine = 海军陆战队
-paratrooper = 空降伞兵
 amphibious_armor = 两栖坦克营
 amphibious_mechanized = 两栖机步营
 anti_tank_brigade = 反坦克炮
@@ -170,9 +178,6 @@ mot_anti_air_brigade = 摩托化防空
 rocket_artillery_brigade = 火箭炮
 mot_rocket_artillery_brigade = 牵引式火箭炮营
 motorized_rocket_brigade = 自行火箭炮
-bicycle_battalion = 自行车营
-mountaineers = 山地步兵
-mechanized = 机械化步兵
 light_sp_anti_air_brigade = 轻型自行防空炮
 medium_sp_anti_air_brigade = 中型自行防空炮
 heavy_sp_anti_air_brigade = 重型自行防空炮
