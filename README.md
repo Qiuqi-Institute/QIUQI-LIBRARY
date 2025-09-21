@@ -96,7 +96,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 |[烈焰升腾：最美好的中国](https://steamcommunity.com/sharedfiles/filedetails/?id=3412237232)模组|[德国国策扩展：黄粱一梦](https://steamcommunity.com/sharedfiles/filedetails/?id=3308201627)模组|新秩序：离乡甚远(TNO:SFFH)制作组|
 |冷战：热斗(CW:HS)制作组|[日月不落](https://steamcommunity.com/sharedfiles/filedetails/?id=2917842100)模组|[英式和平：自由或死亡](https://steamcommunity.com/sharedfiles/filedetails/?id=3071559334)(PB:LOM)制作组|
 |东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|[P社系列游戏资源互助站](https://share.paragames233.com)|
-|[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|临界坍塌(CC)制作组|[烈焰升腾：东风烈](https://steamcommunity.com/sharedfiles/filedetails/?id=3449442976)(TFR:VOV)制作组|
+|[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|临界坍塌(CC)制作组|[烈焰升腾：东风烈](https://steamcommunity.com/sharedfiles/filedetails/?id=3449442976)(TFR:VOV)制作组|碧蓝档案：奇迹起点制作组|终焉回响：昔殇千溯制作组|
 
 ### 鸣谢
 
@@ -164,7 +164,8 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - Twisunshine Intelligent(FIL组) - 提供教程
 - Saltfish - P语言：兼容性导论/P语言：从入门到弃坑 2025.1.12version
 - CzXieDdan - 编写代码工具
-- Stakataka_3030 - HOI4.Focus.Editor.v1.0.3
+- Stakataka_3030 - 提供所编写的众多p社代码工具
+- RcE_Revolution - 提供大量代码工具
 
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 

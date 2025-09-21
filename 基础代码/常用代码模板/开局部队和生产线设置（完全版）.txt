@@ -8,7 +8,7 @@
 #不需要写文件后缀，写文件的名字就可以了（可以加""）
 set_oob = xxx 
 obb = xxx
-#上面两个都是陆军的
+#上面两个好像都是陆军的
 set_naval_oob = xxx #海军
 set_air_oob = xxx #空军
 
