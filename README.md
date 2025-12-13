@@ -39,15 +39,18 @@
 - 霜泽图书馆（主馆）：378525932
 - 霜泽图书馆（通知）：1026294736
 
+- 霜泽图书馆（科研院）：1045599726
+> 专门研究钢铁雄心4代码工具的小群组，如有编程基础，欢迎加入！
+
 ### 汉化类
 
 - 霜泽图书馆（汉化组）：996535362
 
-> 霜泽图书馆汉化组同时承担钢铁雄心4WIKI页面、钢铁雄心4大型MOD元首之国、钢铁雄心4为国而战MOD、红魔乡：绯红之梦的汉化项目，欢迎各位对汉化翻译感兴趣的同志们到来！
+> 霜泽图书馆汉化组同时承担钢铁雄心4WIKI页面、钢铁雄心IV元首之国、为国而战、红魔乡：绯红之梦、世界帝国等模组的汉化项目，并受邀参与钢铁雄心IV新版本汉化修订工程，欢迎各位对汉化翻译感兴趣的同志们到来！
 
 - 元首之国玩家院(汉化组直辖群聊)：1025656289
 
->霜泽图书馆汉化组开通了由我们承担汉化的【元首之国】项目的玩家水群，欢迎各位的到来！
+> 霜泽图书馆汉化组开通了由我们承担汉化的元首之国项目的玩家水群，欢迎各位的到来！
 
 
 ### 美工类
@@ -97,6 +100,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 |冷战：热斗(CW:HS)制作组|[日月不落](https://steamcommunity.com/sharedfiles/filedetails/?id=2917842100)模组|[英式和平：自由或死亡](https://steamcommunity.com/sharedfiles/filedetails/?id=3071559334)(PB:LOM)制作组|
 |东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|[P社系列游戏资源互助站](https://share.paragames233.com)|
 |[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|临界坍塌(CC)制作组|[烈焰升腾：东风烈](https://steamcommunity.com/sharedfiles/filedetails/?id=3449442976)(TFR:VOV)制作组|碧蓝档案：奇迹起点制作组|终焉回响：昔殇千溯制作组|
+新秩序：砥锋挺锷(TNO:FSE)制作组|新秩序：燧峰砂(TNO:ER)制作组||
 
 ### 鸣谢
 
@@ -151,11 +155,11 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - 墨合 - 收录其代码工具
 - 逻各斯 - 收录其代码军队历史命名模板
 - Anarchism - 提供曲线Shader使用教程
-- 南宫萧 - 提供shader制作教程
+- 丛雨绯闻男友 - 提供shader制作教程
 - 59战车(烈焰升腾:潜龙腾渊组) - 提供模型制作系列教程
 - Dream(帝国雄心组) - 提供常用代码提词器
 - 黑狗卫士 - 提供definition系列翻译文件
-- 洗不白の衣服(IRIS组) - 提供人物生成器网站
+- 洗不白の衣服(IRIS组) - 提供人物生成器网站和Shader代码解析
 - Phoebe - 更新MIO系列：第七次修改，提供教程
 - 菜鸟 - 提供AI系列教程
 - xc136(红与白组) - 提供相关变量对数计算教程
@@ -166,6 +170,10 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - CzXieDdan - 编写代码工具
 - Stakataka_3030 - 提供所编写的众多p社代码工具
 - RcE_Revolution - 提供大量代码工具
+- 4685 - 提供基础代码模板和教程
+- 九尾狐 - 提供基础代码教程
+- Krrat Main(复苏之日组) - 提供代码工具
+- 
 
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 
@@ -173,7 +181,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 ![qq](./image/qq.png)
 秋起.
 
-2025.5.11
+2025.12.13
 
 ---
 
