@@ -1,1 +1,0 @@
-ren *.dds *.png
