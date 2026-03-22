@@ -1,9 +1,13 @@
+【原作者：一只萌新】
+
+（优化、修改、更新：胡桃）
 通常位于history/countries/XXX.txt
+本质为一种效果
     create_equipment_variant = {
         name = "名字"
         type = 装备类型   #（有man the gun dlc的情况下，海军设计必须使用专门的海军类型，见下面）
-        parent_version = 0
-        name_group = 名称组（可不写）
+        parent_version = 0 #排序多种相同装备（同底盘）的变体。0 是最老的，1 是第二老的，依此类推。可选，默认为 0。
+        name_group = 名称组 #（可不写）
         modules = {
             模块 = 配件
         }
@@ -12,7 +16,15 @@
             tank_nsb_armor_upgrade = 装甲等级
         }
         icon = "图像"
-        obsolete = 是否退役装备
+        model = 模型
+        design_team = MIO名字
+        obsolete = yes/no #是否退役装备
+        
+        ### 不常用 ###
+        allow_without_tech = yes/no #如果设置，可以绕过必须通过研究解锁该变体装备的要求。可选，默认为 false。
+        role_icon_index = 整数数字/auto #将要使用的角色图标索引，作为整数。如果设置为“自动”，会自动选择。如果设置为 0，则会被取消设置。可选，仅适用于船。
+        mark_older_equipment_obsolete = yes/no #只要符合以下条件，所有较旧（非底盘）装备变体标记为过时：原型、定位、任务套装（飞机）。可选，默认为 false。
+        show_position = yes/no #动态设备版本编号。如果被禁用，则会移除装备名称中的后缀。编号与 parent_version 相关。默认为yes。
     }
     #示例
     create_equipment_variant = {
@@ -196,7 +208,7 @@
     mid_2_custom_slot = 中段自选装备2
     mid_3_custom_slot = 中段自选装备3
     rear_1_custom_slot = 舰尾自选装备1
-    rear_1_custom_slot = 舰尾自选装备2
+    rear_2_custom_slot = 舰尾自选装备2
 舰艇配件
 
     轻炮

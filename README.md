@@ -100,7 +100,10 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 |冷战：热斗(CW:HS)制作组|[日月不落](https://steamcommunity.com/sharedfiles/filedetails/?id=2917842100)模组|[英式和平：自由或死亡](https://steamcommunity.com/sharedfiles/filedetails/?id=3071559334)(PB:LOM)制作组|
 |东方乱世录：幻想终末(THW)制作组|钢铁雄心4萌新社|[P社系列游戏资源互助站](https://share.paragames233.com)|
 |[八年抗战优化补充整合](https://steamcommunity.com/sharedfiles/filedetails/?id=3273220145)制作组|[新秩序：第二次西俄战争](https://steamcommunity.com/sharedfiles/filedetails/?id=3449417512)(TNO:2WRWCE)制作组|临界坍塌(CC)制作组|[烈焰升腾：东风烈](https://steamcommunity.com/sharedfiles/filedetails/?id=3449442976)(TFR:VOV)制作组|碧蓝档案：奇迹起点制作组|终焉回响：昔殇千溯制作组|
-新秩序：砥锋挺锷(TNO:FSE)制作组|新秩序：燧峰砂(TNO:ER)制作组||
+新秩序：砥锋挺锷(TNO:FSE)制作组|新秩序：燧峰砂(TNO:ER)制作组|烈焰升腾：欲火大洋(TFR:SPF)制作组|
+新秩序：道阻且长(TNO:LAR)制作组|烈焰升腾：落日余韵制作组|新秩序：光自贝加尔湖来(TNO:LFB)制作组|
+新秩序：正道沧桑(TNO:STV)制作组|西欧社会主义一体化制作组|凡尔赛秩序(IOV)制作组|
+
 
 ### 鸣谢
 
@@ -114,7 +117,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - [黑白平行](https://space.bilibili.com/13276247)（SPC组） - 收录其诸多代码工具、担任图书馆群聊管理
 - [MangGong](https://github.com/MangoGong)（TCV组） - 收录其诸多代码工具
 - [zhizhong](https://space.bilibili.com/74159435)（德莉莎 from TTT组） - 提供大量教程
-- 九玖二柒9927 - 提供代码工具
+- NS9927 - 提供代码工具
 - 陈睿中之人 - 收录其代码工具
 - 雪儿 - 收录其电台代码（From 白雪群处）
 - [芙蓉泣露香兰笑](https://github.com/textGamex) - 收录代码工具 [VModer](https://github.com/textGamex/VModer)
@@ -139,7 +142,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - iWagination - 提供大量GUI系列教程
 - Peter_XL(重铸明日组) - 提供代码制作教程
 - Roy(复苏之日组) - 提供代码制作教程
-- Crys7aL_L1nE(TNO:TER组) - 提供TNO常用代码合集
+- Crys7aL_L1nE(TNO:TER组) - 收录TNO常用代码合集
 - 里脊(TNO:SFFH组) - 提供TNO常用代码合集
 - [anzai249](https://github.com/anzai249) - 授权提供钢铁雄心4大众脸生成器
 - 德·瓦莱拉 - 提供预制核心圈模板
@@ -174,6 +177,8 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - 九尾狐 - 提供基础代码教程
 - Krrat Main(复苏之日组) - 提供代码工具
 - coldfish987 - 提供代码工具
+- 世纪 - 提供代码模板
+- 苏丹娜(提瓦特黎明制作组) - 提供代码模板
 
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 
