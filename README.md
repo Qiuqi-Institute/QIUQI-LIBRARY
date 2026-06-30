@@ -2,7 +2,7 @@
     霜泽(秋起)图书馆
 </h1>
 
-![logo](./image/logo.jpg)
+![logo](https://i.imgur.com/JF3Jcpc.jpeg)
 
 **首先，欢迎各位MOD界的同志们使用秋起图书馆（霜泽图书馆）！**
 
@@ -183,7 +183,7 @@ Shuuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 >如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！
 
 我们借由此欢迎各位代码界的同志们投稿各类代码模板、教程、工具等，共同推动MOD圈之繁荣，感谢各位！
-![qq](./image/qq.png)
+![qq](https://i.imgur.com/DPldbtO.png)
 秋起.
 
 2025.12.13
