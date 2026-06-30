@@ -1,4 +1,4 @@
-截止到1.14.7；国策模板更新 by秋起
+截止到1.19.x；国策模板更新 by秋起
 
 筛选器标签：
 政治 search_filters = {FOCUS_FILTER_POLITICAL}
@@ -8,6 +8,7 @@
 战争支持度 search_filters = {FOCUS_FILTER_WAR_SUPPORT}
 人力 search_filters = {FOCUS_FILTER_MANPOWER}
 吞并 search_filters = {FOCUS_FILTER_ANNEXATION}
+史实 search_filters = {FOCUS_FILTER_HISTORICAL}
 
 以下为国策树内容，国策树文件位置common/national_focus/xxx.txt
 focus_tree = {
@@ -24,7 +25,71 @@ focus_tree = {
 
 	#########共享国策的引用#################
 	shared_focus = 共享/联合国策ID（或名字） ·效果是引入一个shared_focus（或者是joint_focus）和它下辖的所有导向focus #注意，必须使用 相对位置定位的方法才可以锁定下属focus
+    #如果不填写引用内容（等号后面空着不写东西），加载国策时，会直接崩溃（不会弹报错文件）
 
+	initial_show_position = { #点击进入国策树后，相机的位置（通俗来说，就是你进入国策树页面后，视角在国策树的哪一位置）
+    x = 17 #默认x y轴
+    y = 0
+	    offset = { #在某条件下，xy轴的位置
+			x = 0
+			y = 0
+			trigger = {
+				#条件块
+			}
+		}
+    }
+
+	shortcut = { #在国策树内左下角增加导航按钮，通过点击按钮，可以快速使视角滑动到target规定的国策上
+		name = lockey #导航按钮的id，需要本地化
+		target = focus_id #被索引国策的id
+		scroll_wheel_factor = <0,1> #范围在0到1之间，值越大，缩进越大
+		trigger = {
+			#条件块，判断该按钮是否可见
+		}
+	}
+
+
+    #这个代码块要在common/focus_inlay_windows/*.txt文件中定义，不要写在国策文件里面！（这里只是为了方便整理）
+	#对应关系：GUI的前端依旧需要去interface中的.gui文件中写，但是后端则需要到common/focus_inlay_windows/*.txt文件中定义
+	<inlay_window_id> = { #国策GUI 任意填写
+		window_name = gui_component_name #国策GUI的name(id) 
+		internal = yes/no #如果为yes，则该窗口只对本国可见，默认为no
+		visible = {
+			#是否可见的条件，持续检测
+		}
+		scripted_buttons = { #按钮
+			<button_name> = { #按钮的anme <button_name>为任意id
+				available = {
+					#是否可以点击的条件，持续监测
+				}
+			}
+			click_effect = {
+				#按下按钮时的效果
+			}
+		}
+		scripted_images = { #图片
+            <icon_name> = { #图片的名字，具体在.gfx文件中注册
+			    #形式1 #条件块，默认为yes
+                <gfx_name> = {
+				#可以显示的条件
+			    }
+			    #形式2
+			    <gfx_name> = yes #始终可以显示
+            }
+        }
+		scripted_progressbars = { #进度条
+            icon_name = {
+                progress = <variable_name> #进度条对应的变量
+            }
+        }
+	}
+
+
+	#这个直接写在focus_tree下
+	inlay_window = { #国策GUI的整个窗口的位置
+		id = <inlay_window_id> #国策GUI的名字
+		position = { x = 1 y = 20} #位置
+	}
 
 
 	continuous_focus_position = { x = 1200 y = 100 } #持续性国策位置（在全图范围内）。
@@ -39,18 +104,12 @@ focus_tree = {
 		动态icon（图标）
 		dynamic = yes/no #是否允许icon为动态 注：不能实时刷新（需要手动刷新国策树）
 		icon = {
-			trigger = {
-				第一个icon显示的条件（默认为 always= yes）
+			GFX_icon_example_1 = {
+				#GFX_icon_example_1显示的条件
 			}
-			value = GFX_在.gfx文件里的图片名
+			GFX_icon_example_2 = yes #默认显示的icon
 		}
 
-		icon = {
-			trigger = {
-				第二个icon显示的条件（默认为 always= yes）
-			}
-			value = GFX_在.gfx文件里的图片名
-		}
 		标题栏样式：
 		text_icon = 标题栏定义的name — 决定显示国策名字的框是什么样式的，一般p社是默认为普通国策的标题栏
 
