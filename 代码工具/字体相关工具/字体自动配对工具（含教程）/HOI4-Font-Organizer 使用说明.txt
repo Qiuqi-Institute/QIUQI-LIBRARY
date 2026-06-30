@@ -1,8 +1,0 @@
-HOI4-Font-Organizer 使用说明
-选择带有bmfont导出原始.fnt与.dds的文件夹。
-程序将自动筛选配对，.dds配对取决于.fnt内之路径，切勿修改.dds的文件名。
-选择HOI4模式将额外导出.gfx字体注册文件。
-将导出文件夹内内容覆盖至mod根目录即可。
-本项目基于ALL PROJECTS’ EXCHANGE REUSE INFINITE PROGRESS LICENSE (APERIP)分发，
-参见https://github.com/APERIPManagementOrganization/APERIP/releases/download/v1.0/LICENSE
-CzXieDdan
