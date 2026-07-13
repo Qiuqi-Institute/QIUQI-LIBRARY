@@ -199,6 +199,7 @@ Shuangze Library - 霜泽图书馆(Discord区) ：https://discord.gg/7mxG9eMJx6
 - [coldfish987](https://github.com/coldfish987654) - 提供代码工具
 - 世纪 - 提供代码模板
 - 苏丹娜(提瓦特黎明制作组) - 提供代码模板
+- [wpx2008](https://github.com/wpx2008) - 提供代码工具
 
 <sub>如因失误，未能将您的的名字（贡献者）添加至鸣谢者栏列当中，请到图书馆内联系我们！还望海涵，感谢！</sub>
 
