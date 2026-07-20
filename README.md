@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://i.imgur.com/KEmCdE9.png" width=1000></img>
+<img src="https://i.imgur.com/KEmCdE9.png" width=800></img>
 
 <h1 align="center">
     QIUQI LIBRARY
 </h1>
 
-**以秋起图书馆为根基，AOR（赤色极光），CR（天兆之国），TOD（亢龙有悔）三组联合创建了霜泽图书馆代码教学群聊。**
+**以秋起图书馆为根基，AOR（赤色极光），CR（天兆之国），TOD（亢龙有悔）三组联合创建了霜泽图书馆教学群聊。**
 
 **经过不断发展，目前已经形成了“一馆五区”的组织格局，遍及代码，翻译，美工等领域。**
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/JF3Jcpc.jpeg" width=800></img>
+<img src="https://i.imgur.com/JF3Jcpc.jpeg" width=670></img>
 
 **首先，欢迎各位MOD界的同志们使用秋起图书馆（霜泽图书馆）！**
 
@@ -67,8 +67,6 @@
 在内容上，收录了由中外社区的诸多创作者所编写的实用代码工具。
 
 </div>
-
----
 
 <div align="center">
 
@@ -312,7 +310,7 @@ Krrat Main(复苏之日组) - 提供代码工具
 
 <div align="center">
 
-<img src="https://i.imgur.com/DPldbtO.png" width=800></img>
+<img src="https://i.imgur.com/DPldbtO.png" width=670></img>
 
 </div>
 
@@ -320,6 +318,6 @@ Krrat Main(复苏之日组) - 提供代码工具
 
 <div align="center">
 
-[秋起图书馆更新日志](./CHANGELOG.md)
+[更新日志](./CHANGELOG.md)
 
 </div>
